@@ -2,9 +2,6 @@
 #
 #
 
-#---- Deixar trecho abaixo comentado no Sagitarii
-#sagitariiWorkFolder <- "/Users/eogasawara/Dropbox/Eduardo/R/Star-Galaxy"
-
 # to use with hadoop:
 sagitariiWorkFolder <- "."
 libraryFolder <- sagitariiWorkFolder
